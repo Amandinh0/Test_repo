@@ -1,1 +1,1 @@
-console.log("Helklo World!");
+console.log("Hello teammate 1!");
